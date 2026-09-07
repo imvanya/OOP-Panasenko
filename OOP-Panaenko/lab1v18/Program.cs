@@ -67,9 +67,7 @@ namespace OOPLab1
 
             Console.OutputEncoding = Encoding.UTF8;
 
-            Console.WriteLine("==================================================");
             Console.WriteLine("  Лабораторна робота №1. Варіант 18: Клас Bookstore");
-            Console.WriteLine("==================================================\n");
 
             Bookstore store1 = new Bookstore("Є Книгарня", "вул. Соборна, 15", 2);
             Bookstore store2 = new Bookstore("Книжковий Лев", "пр. Свободи, 7", 1);
@@ -93,7 +91,6 @@ namespace OOPLab1
             store3.SellBook(); 
             Console.WriteLine();
 
-            Console.WriteLine("==================================================");
             Console.WriteLine("Програму успішно виконано.");
         }
     }
