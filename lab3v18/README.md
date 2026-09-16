@@ -62,4 +62,4 @@
 
 ## Приклад результату
 
-<img width="547" height="310" alt="{4C57783D-2D3A-4C2B-8C55-08A8960A81F5}" src="https://github.com/user-attachments/assets/2a9e77f3-3432-4e3d-ac0f-c021b01d72a2" />
+![alt text]({7C5F2386-91A0-4AAD-91B8-E9EE7073BDD4}.png)
